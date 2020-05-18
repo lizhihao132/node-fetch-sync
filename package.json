@@ -1,0 +1,24 @@
+{
+  "name": "fetch-sync",
+  "version": "1.0.0",
+  "description": "node fetch sync",
+  "main": "index.js",
+  "scripts": {
+    "test": "node tests && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juniorfans/node-fetch-sync.git"
+  },
+  "author": "lizhihao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/juniorfans/node-fetch-sync/issues"
+  },
+  "homepage": "https://github.com/juniorfans/node-fetch-sync#readme",
+  "dependencies": {
+    "@trustable/async_to_sync": "^1.0.6",
+    "https-proxy-agent": "^5.0.0",
+    "node-fetch": "^2.6.0"
+  }
+}
