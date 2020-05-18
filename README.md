@@ -1,5 +1,5 @@
 # node-fetch-sync
-  基于 node-fetch 和 [@trustable/async_to_sync](https://github.com/juniorfans/async_to_sync) 实现的同步请求库。
+  基于 [node-fetch](https://github.com/node-fetch/node-fetch) 和 [@trustable/async_to_sync](https://github.com/juniorfans/async_to_sync) 实现的同步请求库。
 
 ## 使用方法
 ```
