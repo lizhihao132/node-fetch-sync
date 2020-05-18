@@ -1,6 +1,6 @@
 {
-  "name": "fetch-sync",
-  "version": "1.0.0",
+  "name": "node-fetch-sync",
+  "version": "1.0.1",
   "description": "node fetch sync",
   "main": "index.js",
   "scripts": {
@@ -10,6 +10,9 @@
     "type": "git",
     "url": "git+https://github.com/juniorfans/node-fetch-sync.git"
   },
+  "keywords": [ 
+	"node fetch", "fetch sync", "net sync", "http sync", "node fetch sync" 
+	],
   "author": "lizhihao",
   "license": "ISC",
   "bugs": {
