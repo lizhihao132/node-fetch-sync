@@ -3,7 +3,11 @@
 
 ## 使用方法
 ```
-  const net = require('./node_fetch_sync.js');
+npm install node-fetch-sync
+```
+
+```
+  const net = require('node_fetch_sync');
   let url = 'https://github.com/juniorfans';
 	let options = {
 		timeout: 1000, 
