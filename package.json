@@ -22,6 +22,6 @@
   "dependencies": {
     "@trustable/async_to_sync": "^1.0.6",
     "https-proxy-agent": "^5.0.0",
-    "node-fetch": "^2.6.0"
+    "node-fetch": "^3.1.1"
   }
 }
